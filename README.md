@@ -5,10 +5,10 @@ This repository contains two script that can be used to install Nginx from Nginx
 There is two type of script which is provided at this repository:
 
 
-- Nginx From Nginx Repository for Ubuntu which contains stable version (install_nginx_ubuntu_stable.sh)
+    - Nginx From Nginx Repository for Ubuntu which contains stable version (install_nginx_ubuntu_stable.sh)
 
 
-- Nginx Mainline From Nginx Repository for Ubuntu which contains mainline version 1.25 (install_nginx_ubuntu_mainline.sh)
+    - Nginx Mainline From Nginx Repository for Ubuntu which contains mainline version 1.25 (install_nginx_ubuntu_mainline.sh)
 
 
 ## How to Install
